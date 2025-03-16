@@ -20,7 +20,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/AtharvaGawande14/movie-recommendation-Syatem.git
+git clone https://github.com/AtharvaGawande14/movie-recommendation-System.git
 Navigate to the project folder
 bash
 Copy
