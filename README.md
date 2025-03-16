@@ -20,7 +20,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/movie-recommendation-website.git
+git clone https://github.com/AtharvaGawande14/movie-recommendation-website.git
 Navigate to the project folder
 bash
 Copy
