@@ -4,9 +4,13 @@ This Movie Recommendation Website is designed to help users quickly find recent 
 
 ### 🌟 Features
 ✔️ Categorized Recommendations – Movies classified under Recent Releases, Top-Rated, and Most Loved
+
 ✔️ Hover Effects – Movie banners zoom in and display details when hovered over
+
 ✔️ Smooth Navigation – A sidebar and navbar for easy access
+
 ✔️ Trailer Section – Featured movie trailer at the top of the screen
+
 ✔️ Responsive Design – Ensures accessibility on different devices
 
 ### 🛠️ Tech Stack
