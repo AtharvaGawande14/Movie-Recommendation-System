@@ -27,8 +27,6 @@ Copy
 Edit
 cd movie-recommendation-website
 Open index.html in your browser
-📸 Screenshots
-(Add relevant screenshots or GIFs showcasing different sections like login, home page, and hover effects.)
 
 🎯 Future Enhancements
 🔹 Add personalized recommendations based on user preferences
