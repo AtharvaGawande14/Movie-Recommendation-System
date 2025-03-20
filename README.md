@@ -37,7 +37,8 @@ Login Page
 
 Intro Page
 
-![image](https://github.com/user-attachments/assets/95794fdc-9502-48ef-938b-34e926062f40)
+![Screenshot2 2025-03-20 141241](https://github.com/user-attachments/assets/b44464c4-a7b0-4663-a875-5cb847b1c8de)
+
 
 Main Page
 
