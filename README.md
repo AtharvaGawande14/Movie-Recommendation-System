@@ -18,6 +18,17 @@ Frontend: HTML, CSS, JavaScript
 Frameworks/Libraries: Font Awesome for icons
 Development Tools: VS Code
 
+
+🚀 Installation & Setup
+Follow these steps to run the project locally:
+
+Clone the repository
+
+git clone https://github.com/your-username/movie-recommendation-website.git
+Navigate to the project folder
+
+cd movie-recommendation-website
+
 ### 📸 Screenshots
 Login Page### 🚀 Installation & Setup
 Follow these steps to run the project locally:
