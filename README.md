@@ -19,7 +19,16 @@ Frameworks/Libraries: Font Awesome for icons
 Development Tools: VS Code
 
 ### 📸 Screenshots
-Login Page
+Login Page### 🚀 Installation & Setup
+Follow these steps to run the project locally:
+
+Clone the repository
+git clone https://github.com/AtharvaGawande14/movie-recommendation-System.git
+
+Navigate to the project folder
+cd movie-recommendation-website
+
+Open index.html in your browser
 
 ![image](https://github.com/user-attachments/assets/98be4387-d3b8-4b49-8fef-2f9a22292320)
 
@@ -34,16 +43,3 @@ Main Page
 ![image](https://github.com/user-attachments/assets/289cb608-16b4-4982-b17c-b3232d5202ed)
 
 ![image](https://github.com/user-attachments/assets/67027a71-19b4-4c79-9ad4-32f4d06b394d)
-
-
-
-### 🚀 Installation & Setup
-Follow these steps to run the project locally:
-
-Clone the repository
-git clone https://github.com/AtharvaGawande14/movie-recommendation-System.git
-
-Navigate to the project folder
-cd movie-recommendation-website
-
-Open index.html in your browser
