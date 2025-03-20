@@ -32,7 +32,8 @@ cd movie-recommendation-website
 ### 📸 Screenshots
 Login Page
 
-![image](https://github.com/user-attachments/assets/98be4387-d3b8-4b49-8fef-2f9a22292320)
+![Screenshot2 2025-03-20 141106](https://github.com/user-attachments/assets/59959bf7-b83a-4fde-821a-b2b269c07773)
+
 
 Intro Page
 
