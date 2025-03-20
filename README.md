@@ -2,7 +2,6 @@
 ### 📌 Overview
 This Movie Recommendation System is designed to help users quickly find recent releases, top-rated movies, and trending films. The goal is to reduce search time and enhance the movie discovery experience with an interactive and user-friendly interface.
 
-
 ### 🌟 Features
 ✔️ Categorized Recommendations – Movies classified under Recent Releases, Top-Rated, and Most Loved
 
@@ -14,12 +13,10 @@ This Movie Recommendation System is designed to help users quickly find recent r
 
 ✔️ Responsive Design – Ensures accessibility on different devices
 
-
 ### 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 Frameworks/Libraries: Font Awesome for icons
 Development Tools: VS Code
-
 
 ### 🚀 Installation & Setup
 Follow these steps to run the project locally:
@@ -30,7 +27,6 @@ git clone https://github.com/AtharvaGawande14/Movie-Recommendation-System.git
 Navigate to the project folder
 
 cd movie-recommendation-website
-
 
 ### 📸 Screenshots
 Login Page
