@@ -19,7 +19,7 @@ Frameworks/Libraries: Font Awesome for icons
 Development Tools: VS Code
 
 
-🚀 Installation & Setup
+### 🚀 Installation & Setup
 Follow these steps to run the project locally:
 
 Clone the repository
