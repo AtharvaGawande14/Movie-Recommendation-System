@@ -24,7 +24,7 @@ Follow these steps to run the project locally:
 
 Clone the repository
 
-git clone https://github.com/your-username/movie-recommendation-website.git
+git clone https://github.com/AtharvaGawande14/movie-recommendation-Syatem.git
 Navigate to the project folder
 
 cd movie-recommendation-website
