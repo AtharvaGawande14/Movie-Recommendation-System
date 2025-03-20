@@ -19,6 +19,8 @@ Frameworks/Libraries: Font Awesome for icons
 Development Tools: VS Code
 
 ### 📸 Screenshots
+![image](https://github.com/user-attachments/assets/98be4387-d3b8-4b49-8fef-2f9a22292320)
+
 
 ### 🚀 Installation & Setup
 Follow these steps to run the project locally:
