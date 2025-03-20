@@ -30,16 +30,7 @@ Navigate to the project folder
 cd movie-recommendation-website
 
 ### 📸 Screenshots
-Login Page### 🚀 Installation & Setup
-Follow these steps to run the project locally:
-
-Clone the repository
-git clone https://github.com/AtharvaGawande14/movie-recommendation-System.git
-
-Navigate to the project folder
-cd movie-recommendation-website
-
-Open index.html in your browser
+Login Page
 
 ![image](https://github.com/user-attachments/assets/98be4387-d3b8-4b49-8fef-2f9a22292320)
 
