@@ -27,6 +27,14 @@ Intro Page
 
 ![image](https://github.com/user-attachments/assets/95794fdc-9502-48ef-938b-34e926062f40)
 
+Main Page
+
+![image](https://github.com/user-attachments/assets/1980b207-747e-40dc-ae4b-92875e390c47)
+
+![image](https://github.com/user-attachments/assets/289cb608-16b4-4982-b17c-b3232d5202ed)
+
+![image](https://github.com/user-attachments/assets/67027a71-19b4-4c79-9ad4-32f4d06b394d)
+
 
 
 ### 🚀 Installation & Setup
