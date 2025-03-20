@@ -18,8 +18,7 @@ Frontend: HTML, CSS, JavaScript
 Frameworks/Libraries: Font Awesome for icons
 Development Tools: VS Code
 
-### Sereen Shots
-
+### 📸 Screenshots
 
 ### 🚀 Installation & Setup
 Follow these steps to run the project locally:
