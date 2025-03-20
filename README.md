@@ -53,5 +53,5 @@ Main Page
 
 3.
 
-![Screenshot2 2025-03-20 141725](https://github.com/user-attachments/assets/3cfefdc8-8708-46d9-9d78-90b275d65b4e)
+![Screenshot2 2025-03-20 144610](https://github.com/user-attachments/assets/2669bea1-7260-4241-8f5a-d83897faf5ea)
 
